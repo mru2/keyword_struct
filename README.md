@@ -23,7 +23,7 @@ Or install it yourself as:
 
 ## Usage
 
-```
+```ruby
 User = KeywordStruct.new(:first_name, :last_name) do
   def full_name
     [first_name, last_name].join(' ')
