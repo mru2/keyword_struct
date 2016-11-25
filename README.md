@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/mru2/keyword_struct.svg?branch=master)](https://travis-ci.org/mru2/keyword_struct)
 
+[![Gem Version](https://badge.fury.io/rb/keyword_struct.svg)](https://badge.fury.io/rb/keyword_struct)
+
 Generates a struct-like class with the following properties :
 - only initializable via keyword arguments
 - all arguments are mandatory
